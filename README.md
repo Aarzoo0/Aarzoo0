@@ -32,27 +32,6 @@ AWS • Docker • Git • Linux • Azure DevOps • CI/CD
 LLMs • Prompt Engineering • RAG
 
 
-
-## 📌 Featured Projects
-
-### AI-Assisted API Workflow Orchestration Platform
-Enterprise-oriented platform for:
-- API dependency orchestration
-- Regression intelligence
-- Dynamic variable propagation
-- AI-assisted execution analysis
-
-### SnapServe
-Service marketplace platform built using:
-- React Vite
-- Spring Boot Microservices
-- MongoDB Atlas
-- AWS S3
-
-### Hotel Management System
-Role-based hotel booking and management platform using Spring Boot and MySQL.
-
-
 ## 🌱 Currently Learning
 
 - Distributed Systems
