@@ -14,22 +14,46 @@ Software Engineer at UST focused on backend engineering, microservices, and AI-a
 ## 🛠 Tech Stack
 
 ### Languages
-Java • Python • JavaScript • TypeScript • SQL
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python,js,ts,mysql" />
+</p>
 
 ### Backend & APIs
-Spring Boot • FastAPI • REST APIs • gRPC • Microservices
+<p>
+  <img src="https://skillicons.dev/icons?i=spring,fastapi" />
+</p>
+
+<p>
+  REST APIs • gRPC • Microservices
+</p>
 
 ### Frontend
-React.js • Vite
+<p>
+  <img src="https://skillicons.dev/icons?i=react,vite" />
+</p>
 
 ### Databases
-MySQL • MongoDB • Amazon RDS
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+</p>
+
+<p>
+  Amazon RDS
+</p>
 
 ### Cloud & DevOps
-AWS • Docker • Git • Linux • Azure DevOps • CI/CD
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,docker,git,linux,azure" />
+</p>
+
+<p>
+  CI/CD
+</p>
 
 ### AI & Automation
-LLMs • Prompt Engineering • RAG
+<p>
+  LLMs • Prompt Engineering • RAG
+</p>
 
 
 ## 🌱 Currently Learning
