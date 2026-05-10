@@ -1,9 +1,5 @@
 # Hi, I'm Aarzoo  👋
 
-Software Engineer at UST focused on backend engineering, microservices, and AI-assisted developer platforms.
-
-
-
 ## 🚀 About Me
 
 Software Developer at UST focused on backend engineering, enterprise applications, and modernization initiatives. I enjoy building clean, scalable systems and understanding how software works end-to-end.
