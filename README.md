@@ -6,10 +6,10 @@ Software Engineer at UST focused on backend engineering, microservices, and AI-a
 
 ## 🚀 About Me
 
-- Backend Engineer with experience in Java, Spring Boot, Python, and FastAPI
-- Working on enterprise-scale platforms and automation systems
-- Interested in distributed systems, workflow orchestration, and GenAI-assisted tooling
-- Exploring scalable architectures, microservices modernization, and intelligent API platforms
+Software Developer at UST focused on backend engineering, enterprise applications, and modernization initiatives. I enjoy building clean, scalable systems and understanding how software works end-to-end.
+
+Currently exploring distributed systems, microservices, workflow orchestration, and AI-assisted developer platforms while continuously improving my engineering skills through hands-on projects and learning.
+
 
 ## 🛠 Tech Stack
 
